@@ -1,6 +1,7 @@
-Enlaces
-=======
+Notícias
+=========
 
+* `Hackers patrocinados por governo chinês abrem negócios na Darknet <http://www.epochtimes.com.br/hackers-patrocinados-pelo-governo-chines-abrem-negocios-darknet/#.V_44SHUrI8o>`_
 * `Um dos maiores ataques DDoS da história foi feito com câmeras de segurança <https://tecnoblog.net/201789/ddos-camera-seguranca-iot/>`_ via `Atslands Rocha <https://www.facebook.com/atslands.rocha/posts/1115971068478846>`_
 * `Polícia descobre estúdio pirata que fabricava 5 mil DVDs e CDs por dia <http://cidadeverde.com/noticias/230711/policia-descobre-estudio-pirata-que-fabricava-5-mil-dvds-e-cds-por-dia>`_
 * `Open Web Application Security Project <https://www.owasp.org/index.php/Main_Page>`_
