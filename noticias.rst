@@ -1,6 +1,7 @@
 Notícias
 =========
 
+* `[AskUbuntu]: Could not load 'vboxdrv' after upgrade to Ubuntu 16.04 (and I want to keep secure boot) <http://askubuntu.com/questions/760671/could-not-load-vboxdrv-after-upgrade-to-ubuntu-16-04-and-i-want-to-keep-secur/762248>`_
 * `Sinfo realiza atividades sobre segurança da informação <https://sistemas.ufrn.br/portal/PT/noticia/20473603#.WANiqB9ic8o>`_
 * `Hackers patrocinados por governo chinês abrem negócios na Darknet <http://www.epochtimes.com.br/hackers-patrocinados-pelo-governo-chines-abrem-negocios-darknet/#.V_44SHUrI8o>`_
 * `Um dos maiores ataques DDoS da história foi feito com câmeras de segurança <https://tecnoblog.net/201789/ddos-camera-seguranca-iot/>`_ via `Atslands Rocha <https://www.facebook.com/atslands.rocha/posts/1115971068478846>`_
