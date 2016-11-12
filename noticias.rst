@@ -1,6 +1,8 @@
 Notícias
 =========
 
+* `[Wired]: Security News This Week: What Trump’s Win Means for Cybersecurity <https://www.wired.com/2016/11/us-military-launches-hack-army-ambitious-bug-bounty-yet/>`_
+* `[Wired]: Despite Trump Fears, Snowden Sees a Hopeful Future <https://www.wired.com/2016/11/despite-trump-fears-snowden-sees-hopeful-future/>`_
 * `[AskUbuntu]: Could not load 'vboxdrv' after upgrade to Ubuntu 16.04 (and I want to keep secure boot) <http://askubuntu.com/questions/760671/could-not-load-vboxdrv-after-upgrade-to-ubuntu-16-04-and-i-want-to-keep-secur/762248>`_
 * `Sinfo realiza atividades sobre segurança da informação <https://sistemas.ufrn.br/portal/PT/noticia/20473603#.WANiqB9ic8o>`_
 * `Hackers patrocinados por governo chinês abrem negócios na Darknet <http://www.epochtimes.com.br/hackers-patrocinados-pelo-governo-chines-abrem-negocios-darknet/#.V_44SHUrI8o>`_
